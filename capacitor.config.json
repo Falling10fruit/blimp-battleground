@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Blimp Battleground",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

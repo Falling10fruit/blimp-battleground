@@ -1,0 +1,8 @@
+{
+  "name": "Blimp Battleground",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "fafcf77e"
+}
