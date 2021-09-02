@@ -12,4 +12,6 @@ for value in range(♾):
           break
           
           
+# Ha, this is silly; let's type normally. 
+          
 # Hi! We're Blimp Academy! In this repository, we make games for you all to enjoy!
