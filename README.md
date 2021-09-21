@@ -1,7 +1,7 @@
 import time
 import pygame
 
-# blimp-battleground
+# greeting
 for value in range(♾):
     print("Hi! We're Blimp Academy!")
     for value in range(24):
