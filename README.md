@@ -1,3 +1,4 @@
+`
 import time
 import pygame
 
@@ -10,6 +11,7 @@ for value in range(♾):
          break
          break
          break
+`
             
             
 # Ha, this is silly; let's type normally. 
